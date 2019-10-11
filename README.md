@@ -32,5 +32,5 @@ e) [Book-Scalability Rules: 50 Principles for Scaling Web Sites](https://www.ama
 
 
 
-If you are interested to know which technology stacks are used by the companies then checkout this [link](https://stackshare.io/stash/stash)
+If you are interested to know what technology stacks are used by the companies then checkout this [link](https://stackshare.io/stash/stash)
 
